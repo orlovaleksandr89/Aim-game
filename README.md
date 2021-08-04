@@ -1,1 +1,1 @@
-# Aim-game
+# Aim training game
